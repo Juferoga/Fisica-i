@@ -16,3 +16,7 @@
 
 
 Repositorio para almacenar las tareas, talleres, ejercicios, entre otros que se desarrollen a lo largo de la materia.
+
+## Video YouTube
+
+- [video Movimiento parabólico](https://www.youtube.com/watch?v=Ntf91HisdZg&list=LL&index=1)
