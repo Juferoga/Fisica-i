@@ -4,8 +4,11 @@
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > Juan Felipe Rodríguez Galindo  - **COD. 20181020158**
+
 > Juan Esteban Velásquez  - **COD. 20201020171**
+
 > Santiago Herrera Rocha  - **COD. 20182020045**
+
 > Vivian Sofía Gonzáles Guerrero  - **COD. 20201020148**
 <br></br>
 [![Juan Felipe Rodriguez Galindo](https://img.shields.io/badge/Juferoga-github-br?style=flat-square)](https://gitlab.com/Juferoga)
