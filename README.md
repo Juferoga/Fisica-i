@@ -23,3 +23,7 @@ Repositorio para almacenar las tareas, talleres, ejercicios, entre otros que se 
 ## Video YouTube
 
 - [video Movimiento parabólico](https://www.youtube.com/watch?v=Ntf91HisdZg&list=LL&index=1)
+
+# Teoria
+
+- [Taller 2](https://github.com/Juferoga/Fisica-i/blob/main/teoria/Taller%202.pdf)
